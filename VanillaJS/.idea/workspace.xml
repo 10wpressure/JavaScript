@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c078d71e-a56d-470f-b180-4dd7eb978ef1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/1-xhr.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/1-xhr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/2-xhr-shake.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/2-xhr-shake.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/3-promisify-xhr.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/3-promisify-xhr.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/4-fetch.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/4-fetch.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/5-async-await.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/5-async-await.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/chuck.png" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/chuck.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/final/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/setup/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/setup/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/setup/chuck.png" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/setup/chuck.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/setup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/setup/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/setup/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/1-chuck-norris-jokes/setup/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/final/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/final/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/final/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/final/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/final/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/final/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/final/utils/displayUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/final/utils/displayUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/final/utils/fetchUser.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/final/utils/fetchUser.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/final/utils/getElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/final/utils/getElement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/final/utils/removeActive.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/final/utils/removeActive.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/setup/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/setup/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/setup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/setup/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/setup/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/2-random-user/setup/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/cocktail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/cocktail.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/drink.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/drink.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/singleDrink.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/singleDrink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/displayDrinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/displayDrinks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/displaySingleDrink.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/displaySingleDrink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/fetchDrinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/fetchDrinks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/getElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/getElement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/presentDrinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/presentDrinks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/searchForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/searchForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/setDrink.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/setDrink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/toggleLoading.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/src/toggleLoading.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/final/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/cocktail.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/cocktail.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/drink.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/drink.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/loading.gif" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/loading.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/singleDrink.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/singleDrink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/displayDrinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/displayDrinks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/displaySingleDrink.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/displaySingleDrink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/fetchDrinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/fetchDrinks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/getElement.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/getElement.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/presentDrinks.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/presentDrinks.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/searchForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/searchForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/setDrink.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/setDrink.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/toggleLoading.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/src/toggleLoading.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-course-basic-ajax-projects/3-cocktails/setup/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/counter/final/app-class.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/counter/final/app-class.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/counter/final/app-proto.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/counter/final/app-proto.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/counter/final/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/counter/final/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/counter/final/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/counter/final/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/counter/starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/counter/starter/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/counter/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/counter/starter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/counter/starter/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/counter/starter/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/app-class.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/app-class.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/city-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/city-1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/city-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/city-2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/city-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/city-3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/city-4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/city-4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/city-5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/city-5.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/nature-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/nature-1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/nature-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/nature-2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/nature-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/images/nature-3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/final/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/city-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/city-1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/city-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/city-2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/city-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/city-3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/city-4.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/city-4.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/city-5.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/city-5.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/nature-1.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/nature-1.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/nature-2.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/nature-2.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/nature-3.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/images/nature-3.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/javascript-oop-course-projects/gallery/starter/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1wioII4TDhwEzGwy7yrQdcbE5Hd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c078d71e-a56d-470f-b180-4dd7eb978ef1" name="Changes" comment="" />
+      <created>1628950688535</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1628950688535</updated>
+      <workItem from="1628950689690" duration="44000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
